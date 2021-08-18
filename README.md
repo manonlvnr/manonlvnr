@@ -1,4 +1,3 @@
 - 👋 Hi, je suis @manonlvnr
 - 👀 je m'intéresse plus particulièrement au développement web front-end/ UX & Ui Design
-- 💼 Je suis à la recherche d'une alternance pour 2 ans
 - 📫 Vous pouvez me contacter à l'adresse : manon.lavenier@gmail.com
