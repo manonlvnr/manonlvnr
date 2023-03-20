@@ -1,3 +1,3 @@
 - 👋 Hi, je suis @manonlvnr
-- 👀 je m'intéresse plus particulièrement au développement web front-end/ UX & Ui Design
+- 👀 je m'intéresse plus particulièrement au développement web front-end/ intégration / UX & Ui Design
 - 📫 Vous pouvez me contacter à l'adresse : manon.lavenier@gmail.com
